@@ -3,3 +3,5 @@ my_list_2 =[]
 for string in my_list:
 	if len(string) <= 3:
 		my_list_2.append(string)
+
+print(my_list_2)
